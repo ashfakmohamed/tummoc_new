@@ -1,0 +1,7 @@
+example input: 
+
+key: value
+lat1: 40.7128
+lon1: -74.0060
+lat2: 34.0522
+lon2: -118.2437
